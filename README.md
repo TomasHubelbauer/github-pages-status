@@ -1,4 +1,4 @@
-# GitHub Pages
+# GitHub Pages Status
 
 This is a list of GitHub Pages that I have enabled for my repos. Some of them
 use custom domains. This repository is an automated evergreen list of them and
